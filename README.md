@@ -27,7 +27,7 @@ A Retrieval-Augmented Generation chatbot that answers questions from PDF documen
 
 ## 💼 Experience
 
-### Co-Founder & Technical Lead — Laze Store
+### Co-Founder & CEO — Laze Store
 Built and launched a Shopify e-commerce store and scaled it to 40+ verified orders within three months.
 
 ### Freelance Developer
