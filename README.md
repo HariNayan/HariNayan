@@ -91,7 +91,7 @@ Delivered web development and UI projects for individuals and small businesses.
 ## 🐍 Contributions
 
 <p align="center">
-  <img src=".github/workflows/snake.yml" />
+  <img src="https://github.com/HariNayan/HariNayan/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contribution Snake Animation" />
 </p>
 
 ---
