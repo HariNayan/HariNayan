@@ -51,6 +51,6 @@ Delivered web development and UI projects for individual clients and small busin
 
 ## 🌐 Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/harinayanrajpattun/)
-- X (Twitter): [https://x.com/YOUR_USERNAME](https://x.com/nayan_556)
+- LinkedIn: https://www.linkedin.com/in/harinayanrajpattun
+- GitHub: https://github.com/HariNayan
 - Email: dev.harinayan@gmail.com
