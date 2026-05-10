@@ -21,7 +21,7 @@ Building AI, backend systems, and automation tools to solve real-world problems.
 
 A Retrieval-Augmented Generation chatbot that answers questions from PDF documents using semantic embeddings and vector search.
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HariNayan&repo=Rag-Based-Pdf-Chatbot&theme=github_dark)
+![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HariNayan&repo=Rag-Based-Pdf-Chatbot&theme=github_dark)
 
 ---
 
@@ -37,9 +37,7 @@ Delivered web development and UI projects for individual clients and small busin
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariNayan&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HariNayan&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HariNayan&show_icons=true&theme=github_dark)
 
 ---
 
