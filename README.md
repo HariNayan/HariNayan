@@ -30,7 +30,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that enables user
 - Built with a modular architecture for easy extension and maintenance
 - Interactive web interface developed with Streamlit
 
-**Tech Stack:** Python, FAISS, Sentence Transformers, OpenRouter, RAG
+**Tech Stack:** Python, Streamlit, PyPDF2, Sentence Transformers, FAISS, OpenRouter API, Retrieval-Augmented Generation (RAG)
 
 <p align="center">
   <a href="https://github.com/HariNayan/Rag-Based-Pdf-Chatbot">
