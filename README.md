@@ -19,8 +19,6 @@
 
 ### 📄 RAG-Based PDF Chatbot
 
-📄 RAG-Based PDF Chatbot
-
 An end-to-end Retrieval-Augmented Generation (RAG) application that enables users to upload PDF documents and ask natural-language questions grounded in the document content.
 
 - Parses multi-page PDF documents
