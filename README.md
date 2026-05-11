@@ -19,7 +19,9 @@
 
 ### 📄 RAG-Based PDF Chatbot
 
-An end-to-end Retrieval-Augmented Generation (RAG) system that allows users to chat with PDF documents using semantic search and grounded LLM responses.
+📄 RAG-Based PDF Chatbot
+
+An end-to-end Retrieval-Augmented Generation (RAG) application that enables users to upload PDF documents and ask natural-language questions grounded in the document content.
 
 - Parses multi-page PDF documents
 - Creates vector embeddings using Sentence Transformers
