@@ -21,11 +21,14 @@
 
 An end-to-end Retrieval-Augmented Generation (RAG) application that enables users to upload PDF documents and ask natural-language questions grounded in the document content.
 
-- Parses multi-page PDF documents
-- Creates vector embeddings using Sentence Transformers
-- Stores and retrieves context using FAISS
-- Generates accurate answers using LLM APIs
-- Modular architecture for easy extension
+✨ Key Features
+Parses and extracts text from multiple PDF documents
+Generates semantic vector embeddings using Sentence Transformers
+Stores and retrieves relevant context with FAISS
+Produces grounded responses through OpenRouter LLM APIs
+Supports conversational memory for follow-up questions
+Built with a modular architecture for easy extension and maintenance
+Interactive web interface developed with Streamlit
 
 **Tech Stack:** Python, FAISS, Sentence Transformers, OpenRouter, RAG
 
