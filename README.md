@@ -91,10 +91,10 @@ Delivered web development, video editing, and content strategy for 15+ creators 
 
 ---
 
-## 🐍 Contributions
+## 📊 Contributions
 
 <p align="center">
-  <img src="https://github.com/HariNayan/HariNayan/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contribution Snake Animation" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
