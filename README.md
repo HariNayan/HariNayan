@@ -66,7 +66,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that enables user
 Built and launched a Shopify-based e-commerce business and scaled it to 40+ verified orders within three months.
 
 ### Freelance Developer
-Delivered web development and UI projects for individuals and small businesses.
+Delivered web development, video editing, and content strategy for 15+ creators and brands including Slashy (YC S25), generating 85M+ views and 500K+ followers across platforms.
 
 ---
 
