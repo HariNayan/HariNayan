@@ -40,7 +40,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that enables user
 
 ---
 
-### 🌌 Agentic AI + NLP Space Simulator *(In Progress)*
+### 🌌 Agentic AI + NLP Space Simulator
 
 An agentic, NLP-driven space monitor that combines real-time 3D visualization with natural language understanding — letting users explore and query live space data through conversational AI instead of traditional dashboards.
 
