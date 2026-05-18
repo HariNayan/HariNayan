@@ -53,10 +53,14 @@ An AI-powered 3D mission control dashboard with real-time NASA telemetry, orbita
 -   14 live data panels from NASA, NOAA, and JPL APIs
 -   Agentic AI pipeline with intent classification, tool-use, and streaming SSE
 -   Adaptive curriculum with 9 progressive lessons
--   
+   
 **Tech Stack:** Next.js, Three.js, FastAPI, NVIDIA API, Agentic AI, NLP, TypeScript
 
-[![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HariNayan&repo=Space-Monitor-AI&theme=github_dark)](https://github.com/HariNayan/Space-Monitor-AI)
+<p align="center">
+  <a href="https://github.com/HariNayan/Space-Monitor-AI">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HariNayan&repo=Space-Monitor-AI&theme=github_dark">
+  </a>
+</p>
 
 ---
 
