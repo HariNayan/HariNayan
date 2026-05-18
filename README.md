@@ -62,7 +62,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that enables user
 
 ## 💼 Experience
 
-### Co-Founder & Technical Lead — Laze Store
+### Co-Founder — Laze Store
 Built and launched a Shopify-based e-commerce business and scaled it to 40+ verified orders within three months.
 
 ### Freelance Developer
