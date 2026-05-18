@@ -40,24 +40,23 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that enables user
 
 ---
 
-### 🌌 Agentic AI + NLP Space Simulator
+### 🚀 Space Monitor AI
 
-An agentic, NLP-driven space monitor that combines real-time 3D visualization with natural language understanding — letting users explore and query live space data through conversational AI instead of traditional dashboards.
+[](#-space-monitor-ai)
+
+An AI-powered 3D mission control dashboard with real-time NASA telemetry, orbital mechanics, and a conversational AI co-pilot — turning raw space data into an immersive interactive command center.
 
 ✨ Key Features
-- Real-time 3D space visualization powered by Three.js
-- Natural language querying via MiniMax M2 (OpenRouter API)
-- Agentic AI pipeline with multi-step reasoning and autonomous workflows
-- FastAPI backend handling real-time data processing and API orchestration
-- Full-stack architecture connecting Next.js frontend to AI backend seamlessly
 
-**Tech Stack:** Next.js, Three.js, FastAPI, OpenRouter API, MiniMax M2, NLP, Agentic Workflows
+-   Real-time 3D solar system with Keplerian elliptic orbits and 16 moons
+-   Conversational AI co-pilot — navigate, explain, and quiz via natural language
+-   14 live data panels from NASA, NOAA, and JPL APIs
+-   Agentic AI pipeline with intent classification, tool-use, and streaming SSE
+-   Adaptive curriculum with 9 progressive lessons
+-   
+**Tech Stack:** Next.js, Three.js, FastAPI, NVIDIA API, Agentic AI, NLP, TypeScript
 
-<p align="center">
-  <a href="https://github.com/HariNayan/Agentic-Ai-and-NLP-Driven-Space-Simulator">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HariNayan&repo=Agentic-Ai-and-NLP-Driven-Space-Simulator&theme=github_dark" />
-  </a>
-</p>
+[![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HariNayan&repo=Space-Monitor-AI&theme=github_dark)](https://github.com/HariNayan/Space-Monitor-AI)
 
 ---
 
