@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 📄 RAG-Based PDF Chatbot
 
@@ -30,11 +30,32 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that enables user
 - Built with a modular architecture for easy extension and maintenance
 - Interactive web interface developed with Streamlit
 
-**Tech Stack:** Python, Streamlit, PyPDF2, Sentence Transformers, FAISS, OpenRouter API, Retrieval-Augmented Generation (RAG)
+**Tech Stack:** Python, Streamlit, PyPDF2, Sentence Transformers, FAISS, OpenRouter API, RAG
 
 <p align="center">
   <a href="https://github.com/HariNayan/Rag-Based-Pdf-Chatbot">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HariNayan&repo=Rag-Based-Pdf-Chatbot&theme=github_dark" />
+  </a>
+</p>
+
+---
+
+### 🌌 Agentic AI + NLP Space Simulator *(In Progress)*
+
+An agentic, NLP-driven space monitor that combines real-time 3D visualization with natural language understanding — letting users explore and query live space data through conversational AI instead of traditional dashboards.
+
+✨ Key Features
+- Real-time 3D space visualization powered by Three.js
+- Natural language querying via MiniMax M2 (OpenRouter API)
+- Agentic AI pipeline with multi-step reasoning and autonomous workflows
+- FastAPI backend handling real-time data processing and API orchestration
+- Full-stack architecture connecting Next.js frontend to AI backend seamlessly
+
+**Tech Stack:** Next.js, Three.js, FastAPI, OpenRouter API, MiniMax M2, NLP, Agentic Workflows
+
+<p align="center">
+  <a href="https://github.com/HariNayan/Agentic-Ai-and-NLP-Driven-Space-Simulator">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HariNayan&repo=Agentic-Ai-and-NLP-Driven-Space-Simulator&theme=github_dark" />
   </a>
 </p>
 
@@ -65,7 +86,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) application that enables user
 ### Co-Founder — Laze Store
 Built and launched a Shopify-based e-commerce business and scaled it to 40+ verified orders within three months.
 
-### Freelance Developer
+### Freelance Developer & Content Strategist
 Delivered web development, video editing, and content strategy for 15+ creators and brands including Slashy (YC S25), generating 85M+ views and 500K+ followers across platforms.
 
 ---
@@ -73,8 +94,8 @@ Delivered web development, video editing, and content strategy for 15+ creators 
 ## 🏆 Achievements
 
 - Smart India Hackathon — Internal Round Shortlist
-- Built multiple end-to-end software projects
-- Founder and technical lead of an e-commerce startup
+- Built multiple end-to-end AI and software projects
+- Founder and technical lead of a live e-commerce platform
 
 ---
 
@@ -104,5 +125,6 @@ Delivered web development, video editing, and content strategy for 15+ creators 
 <p align="center">
   <a href="mailto:dev.harinayan@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/harinayanrajpattun">LinkedIn</a> •
-  <a href="https://github.com/HariNayan">GitHub</a>
+  <a href="https://github.com/HariNayan">GitHub</a> •
+  <a href="https://harinayan.me">Portfolio</a>
 </p>
