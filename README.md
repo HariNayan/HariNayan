@@ -97,8 +97,6 @@ Delivered web development, video editing, and content strategy for 15+ creators 
 ## 🏆 Achievements
 
 - Smart India Hackathon — Internal Round Shortlist
-- Built multiple end-to-end AI and software projects
-- Founder and technical lead of a live e-commerce platform
 
 ---
 
